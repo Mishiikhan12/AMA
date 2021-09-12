@@ -1,0 +1,2 @@
+# AMA
+ama.com
